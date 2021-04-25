@@ -1,7 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.food.FoodApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.075 s <<< FAILURE! - in com.food.FoodApplicationTests
-com.food.FoodApplicationTests  Time elapsed: 1.071 s  <<< ERROR!
-java.lang.IllegalStateException: Found multiple @SpringBootConfiguration annotated classes [Generic bean: class [com.food.FoodApplication]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [/Users/sili/Desktop/untitled folder 2/Food-xin_dev/target/classes/com/food/FoodApplication.class], Generic bean: class [com.food.LoadDatabase]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [/Users/sili/Desktop/untitled folder 2/Food-xin_dev/target/classes/com/food/LoadDatabase.class]]
-
